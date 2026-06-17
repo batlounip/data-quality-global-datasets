@@ -1,2 +1,8 @@
 # data-quality-global-datasets
-Academic data wrangling project integrating energy, population and temperature datasets to explore data quality and integration challenges.
+What Merging Three Global Datasets Taught Me About Data Quality
+
+Academic project completed as part of my postgraduate studies in Data Science and Analytics.
+
+This project integrates energy, population and temperature data from CSV files, World Bank API and Kaggle to explore data quality, data integration and analytical limitations.
+
+The focus is not to make causal claims about climate change, but to document the data wrangling process, integration challenges and lessons learned.
